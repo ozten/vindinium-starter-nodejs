@@ -1,0 +1,25 @@
+{
+  "name": "vindinium-starter-nodejs",
+  "version": "0.0.0",
+  "description": "A starter pack for playing Vindinium",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "request": "*",
+    "qs": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ozten/vindinium-starter-nodejs.git"
+  },
+  "keywords": [
+    "vindinium"
+  ],
+  "author": "ozten",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/ozten/vindinium-starter-nodejs/issues"
+  }
+}
